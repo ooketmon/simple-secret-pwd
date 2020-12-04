@@ -1,2 +1,2 @@
-# simple-turing
-simple turing machine using hash table
+# simple-secret-pwd
+
